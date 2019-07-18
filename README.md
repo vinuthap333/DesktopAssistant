@@ -12,7 +12,7 @@ It requries follwing python modules:
    random
 
 random, requests, webbrowser, smtplib, os, datetime are built-in modules ,where as pyttsx3, speech_recognition and wikipedia needs to be installed externally  
-   
+
 
 ## Installation
 
@@ -23,7 +23,11 @@ pip install pyttsx3
 pip install speech_recognition
 pip install wikipedia
 ```
+Incase, speech_recognition module gives any error,then execute PyAudio-0.2.11-cp37-cp37m-win32.whl file (attached)
 
+```bash
+ PyAudio-0.2.11-cp37-cp37m-win32.whl
+```
 
   
   
